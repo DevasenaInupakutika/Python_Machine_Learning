@@ -1,0 +1,2 @@
+Hello, This file is the result of our testing different commands for creating things in shell like cat, touch, ls, less, more etc.
+Hope you don't mind.
